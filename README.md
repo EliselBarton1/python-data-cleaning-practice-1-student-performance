@@ -11,6 +11,6 @@ This exercise focuses on practical ETL-style data preparation:
 **Files**
 - `student_performance_cleaned_augmented.csv` – final cleaned and engineered dataset  
 - `notebook.ipynb` – full Kaggle notebook  
-- `report.txt` – summary of quick stats and data-quality checks
+
 
 **Kaggle version:** [View Notebook on Kaggle](https://www.kaggle.com/code/elliebarton/python-data-cleaning-practice-1-student-perform/output?select=student_performance_cleaned_augmented.csv)
